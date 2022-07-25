@@ -1,1 +1,1 @@
-# Automate-Emails
+# automate-wannab-emails
